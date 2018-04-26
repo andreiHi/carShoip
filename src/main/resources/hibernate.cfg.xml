@@ -9,8 +9,8 @@
         </property>
         <property name="connection.username">suluuhjjqqjcxa</property>
         <property name="hibernate.connection.password">a18a176dd71fc628f4e7d92260497a28f1e1aa17b59b7c5d374f60abf0c6d695</property>
-        <property name="dialect">org.hibernate.dialect.PostgreSQL94Dialect</property>
-        <property name = "hibernate.jdbc.batch_size">40</property>
+        <property name="dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
+        <!--<property name = "hibernate.jdbc.batch_size">40</property>-->
 
         <property name="show_sql">true</property>
         <property name="format_sql">true</property>
