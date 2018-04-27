@@ -5,10 +5,10 @@
 <hibernate-configuration>
     <session-factory>
         <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
-        <property name="connection.url">jdbc:postgresql://ec2-54-195-246-59.eu-west-1.compute.amazonaws.com:5432/d2h8mdkor069i
+        <property name="connection.url">jdbc:postgresql://ec2-54-247-125-137.eu-west-1.compute.amazonaws.com:5432/d5c3ghfnvnjns3
         </property>
-        <property name="connection.username">suluuhjjqqjcxa</property>
-        <property name="hibernate.connection.password">a18a176dd71fc628f4e7d92260497a28f1e1aa17b59b7c5d374f60abf0c6d695</property>
+        <property name="connection.username">jhifrnajsdgpvv</property>
+        <property name="hibernate.connection.password">80e8bb7bdb381af67e45b240b1799d331668146e88332c230d884c734b7c43fa</property>
         <property name="dialect">org.hibernate.dialect.PostgreSQL95Dialect</property>
         <!--<property name = "hibernate.jdbc.batch_size">40</property>-->
 
